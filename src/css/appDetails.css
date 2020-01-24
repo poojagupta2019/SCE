@@ -1,0 +1,51 @@
+.apps-container {
+    background: #ffffff;
+    margin: 15px 0 0;
+    min-height: 500px !important;
+}
+
+.app-type-buttons {
+    width: 80%;
+    font-size: 14px;
+    font-weight: lighter;
+    font-family: 'Montserrat', open-sans;
+    margin: 20px;
+    padding: 15px;
+    background-color: rgb(43 148 209);
+    color: #fff;
+}
+
+.app-types-container {
+    border-right: 1px solid #e2e2e2;
+    margin: 10px 0px;
+}
+
+.app-details-container {
+    margin-top: 20px;
+}
+
+.app-details-container .add-new-app a{
+    float: right;
+}
+
+.compactingTable {
+    margin-bottom: 5px;
+    padding-left: 3px;
+}
+
+.environment-details {
+    margin-top: 40px;
+    padding: 20px;
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+.environment-details .environment-title {
+    margin-left: 10px;
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+.selected-app {
+    background: #afd7db;
+}
